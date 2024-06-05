@@ -4,8 +4,6 @@
 
 https://github.com/yash131120/Visualize-Data-with-a-Heat-Map/assets/139432375/769ee1f2-195d-404a-a53e-1050349469b8
 
-![image](https://github.com/yash131120/Visualize-Data-with-a-Heat-Map/assets/139432375/a2328123-e76c-478d-9577-998fcf310900)
-
 Objective: Build an app that is functionally similar to this: https://heat-map.freecodecamp.rocks.
 
 Fulfill the below user stories and get all of the tests to pass. Use whichever libraries or APIs you need. Give it your own personal style.
@@ -51,3 +49,7 @@ Here is the dataset you will need to complete this project: https://raw.githubus
 You can build your project by using this CodePen template and clicking Save to create your own pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
 
 Once you're done, submit the URL to your working project with all its tests passing.
+
+
+![image](https://github.com/yash131120/Visualize-Data-with-a-Heat-Map/assets/139432375/a2328123-e76c-478d-9577-998fcf310900)
+
