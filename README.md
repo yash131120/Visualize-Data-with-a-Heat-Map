@@ -1,6 +1,6 @@
 #Visualize Data with a Heat Map
 
-<h2>Project</h2>
+<h2>Project Video</h2>
 
 https://github.com/yash131120/Visualize-Data-with-a-Heat-Map/assets/139432375/769ee1f2-195d-404a-a53e-1050349469b8
 
