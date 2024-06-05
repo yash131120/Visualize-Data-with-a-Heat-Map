@@ -1,7 +1,8 @@
 #Visualize Data with a Heat Map
 
 <h2>Project</h2>
-https://github.com/yash131120/Visualize-Data-with-a-Heat-Map/assets/139432375/6227476c-7976-483e-baee-3c4fb92703b7
+
+https://github.com/yash131120/Visualize-Data-with-a-Heat-Map/assets/139432375/769ee1f2-195d-404a-a53e-1050349469b8
 
 ![image](https://github.com/yash131120/Visualize-Data-with-a-Heat-Map/assets/139432375/a2328123-e76c-478d-9577-998fcf310900)
 
