@@ -1,5 +1,7 @@
 #Visualize Data with a Heat Map
 
+![image](https://github.com/yash131120/Visualize-Data-with-a-Heat-Map/assets/139432375/a2328123-e76c-478d-9577-998fcf310900)
+
 Objective: Build an app that is functionally similar to this: https://heat-map.freecodecamp.rocks.
 
 Fulfill the below user stories and get all of the tests to pass. Use whichever libraries or APIs you need. Give it your own personal style.
