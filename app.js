@@ -117,15 +117,7 @@
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
         .attr("style", "background: #fff");
-
       
-      var bar = d4
-      .select(".chart")
-       .ordinal()
-        .domain(d3.range(0, 12))
-      .attr("height", height + marign.top + margin.bottom);
-      
-
       bar
         .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
